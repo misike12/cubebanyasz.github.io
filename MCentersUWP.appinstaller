@@ -12,7 +12,7 @@
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://www.mcenters.net/MCentersUWP_1.1.1.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
+			Uri="https://www.mcenters.net/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
 			Version="14.0.30704.0" />
 	</Dependencies>
 	<UpdateSettings>
