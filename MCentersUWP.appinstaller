@@ -2,7 +2,7 @@
 <AppInstaller
 	Uri="https://akshnav.netlify.app/MCentersUWP.appinstaller"
 	Version="1.1.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
-	<MainBundle
+	<MainPackage
 		Name="a55bf4b5-0698-40b3-8a9a-d3aec325206d"
 		Version="1.1.1.0"
 		Publisher="CN=M Centers"
