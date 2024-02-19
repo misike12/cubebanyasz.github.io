@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://raw.githubusercontent.com/misike12/misike12.github.io/main/MCentersUWP.appinstaller"
+	Uri="https://akshnav.netlify.app/MCentersUWP.appinstaller"
 	Version="1.1.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="a55bf4b5-0698-40b3-8a9a-d3aec325206d"
