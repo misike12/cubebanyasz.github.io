@@ -6,7 +6,7 @@
 		Name="a55bf4b5-0698-40b3-8a9a-d3aec325206d"
 		Version="1.1.1.0"
 		Publisher="CN=M Centers"
-		Uri="https://raw.githubusercontent.com/misike12/misike12.github.io/main/MCentersUWP_1.1.1.0_Test/MCentersUWP_1.1.1.0_x64.msixbundle" />
+		Uri="https://cubebanyasz.me/feltoltes/uploads/MCentersUWP_1.1.1.0_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
