@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+  Uri="https://akshnav.netlify.app/AkshnavUWP_1.0.0.2_x64.appinstaller"
+  Version="1.0.0.2" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainPackage
+    Name="a55bf4b5-0698-40b3-8a9a-d3aec325206d"
+    Publisher="CN=Akshnav"
+    Version="1.0.0.2"
+    Uri="https://akshnav.netlify.app/AkshnavUWP_1.0.0.2_x64.msix"
+    ProcessorArchitecture="x64" />
+  <UpdateSettings>
+    <OnLaunch
+      HoursBetweenUpdateChecks="12"
+      ShowPrompt="true"
+      UpdateBlocksActivation="false" />
+    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+    <AutomaticBackgroundTask />
+  </UpdateSettings>
+</AppInstaller>
